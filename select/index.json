@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Roller Coaster",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-18T13:06:35.055940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Roller Coaster",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/01_Roller_Coaster_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Roller Coaster",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/02_Roller_Coaster_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Roller Coaster",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/03_Roller_Coaster_Blink-182.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Roller Coaster",
+      "artist": "The Rapture",
+      "has_synced": true,
+      "path": "select/04_Roller_Coaster_The_Rapture.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Roller Coaster",
+      "artist": "Wishbone Ash",
+      "has_synced": true,
+      "path": "select/05_Roller_Coaster_Wishbone_Ash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hawaiian Roller Coaster Ride",
+      "artist": "Jump5",
+      "has_synced": false,
+      "path": "select/06_Hawaiian_Roller_Coaster_Ride_Jump5.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hawaiian Roller Coaster Ride",
+      "artist": "Mark Keali'i Ho'omalu and Kamehameha Schools Children's Chorus",
+      "has_synced": true,
+      "path": "select/07_Hawaiian_Roller_Coaster_Ride_Mark_Keali'i_Ho'omalu_and_Kamehameha_Schools_Children's_Chorus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hawaiian Roller Coaster Ride",
+      "artist": "Mark Keali'i Ho'omalu Kamehameha Schools Children's Chorus",
+      "has_synced": true,
+      "path": "select/08_Hawaiian_Roller_Coaster_Ride_Mark_Keali'i_Ho'omalu_Kamehameha_Schools_Children's_Chorus.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hawaiian Roller Coaster Ride - Remix",
+      "artist": "Mark Keali'i Ho'omalu",
+      "has_synced": false,
+      "path": "select/09_Hawaiian_Roller_Coaster_Ride_-_Remix_Mark_Keali'i_Ho'omalu.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hawaiian Roller Coaster Ride (Remix)",
+      "artist": "Mark Keali'i Ho'omalu",
+      "has_synced": false,
+      "path": "select/10_Hawaiian_Roller_Coaster_Ride_(Remix)_Mark_Keali'i_Ho'omalu.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Roller Coaster",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/11_Roller_Coaster_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Roller Coaster (Album Version)",
+      "artist": "blink-182",
+      "has_synced": true,
+      "path": "select/12_Roller_Coaster_(Album_Version)_blink-182.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Roller Coaster",
+      "artist": "blink‐182",
+      "has_synced": true,
+      "path": "select/13_Roller_Coaster_blink‐182.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lilo & Stitch  Hawaiian Roller Coaster Ride",
+      "artist": "Disney",
+      "has_synced": true,
+      "path": "select/14_Lilo_&_Stitch_Hawaiian_Roller_Coaster_Ride_Disney.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lilo and Stitch-Hawaiian Roller Coaster Ride(English)",
+      "artist": "Disney",
+      "has_synced": true,
+      "path": "select/15_Lilo_and_Stitch-Hawaiian_Roller_Coaster_Ride(English)_Disney.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Roller Coaster",
+      "artist": "Dirty Audio feat. Max Styler",
+      "has_synced": false,
+      "path": "select/16_Roller_Coaster_Dirty_Audio_feat._Max_Styler.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Roller Coaster",
+      "artist": "Dirty Audio & Max Styler",
+      "has_synced": false,
+      "path": "select/17_Roller_Coaster_Dirty_Audio_&_Max_Styler.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Roller Coaster",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Roller_Coaster_NMIXX.txt"
+    }
+  ]
+}
